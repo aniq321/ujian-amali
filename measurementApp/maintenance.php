@@ -9,7 +9,7 @@
 <body>
     <div id="main-content">
         <h1 style="text-align: center;">WEBSITE IN MAINTENANCE MODE !!!</h1>
-        <img src="" alt="">
+        <img src="maintenance-3.png" alt="">
         <p style="text-align: center;">Back To <a href="index.php">Main Menu</a></p>
     </div>
 </body>
